@@ -8,7 +8,7 @@ public class test {
     }
 
     static void test1() {
-        System.out.println("测试111");
+        System.out.println("测试aaa");
     }
     static void test2() {
         System.out.println("测试idea");
