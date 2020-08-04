@@ -22,7 +22,8 @@ public class test {
     }
 
     static void test4() {
-        for (int i=0;i>i;i++) {
+        int e=9;
+        for (int i=0;i>e;i++) {
             System.out.println("测试for循环");
         }
     }
